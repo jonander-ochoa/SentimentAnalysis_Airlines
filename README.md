@@ -12,16 +12,7 @@ Prediction of the polarity of sentiments expressed in tweets about the six main 
 
 # DEEP LEARNING MODEL
 
-Layer (type)	Output Shape	Param #
-=================================================================
-dense_1	(Dense)	(None,	100)	1000100
-dense_2	(Dense)	(None,	100)	10100
-dense_3	(Dense)	(None,	3)	303
-=================================================================
-Total params: 1,010,503
-Trainable params: 1,010,503
-Non-trainable params: 0
-
+![image](https://user-images.githubusercontent.com/74593576/113569235-6c91bc00-9612-11eb-8149-ebb8b0071fed.png)
 
 
 # CONFUSSION MATRIX
